@@ -126,3 +126,17 @@ a:hover {
 #introduction p {
   margin-bottom: 30px;
 }
+.project-item {
+  text-align: left;
+  margin: 24px 0;
+}
+
+.project-item h3 {
+  color: #3D405B;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.project-item p {
+  margin-top: 0;
+}
